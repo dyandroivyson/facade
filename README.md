@@ -17,5 +17,5 @@ Em nosso algoritmo, dividimos o problema na pasta  _original_  e a solução na 
 
 ## Fonte
 
--   [Refactoring Guru](https://refactoring.guru/design-patterns/strategy)
--   [Código Fonte TV](https://www.youtube.com/watch?v=WPdrnuSHAQs)
+-   [Refactoring Guru](https://refactoring.guru/design-patterns/facade)
+-   [Código Fonte TV](https://www.youtube.com/watch?v=8tyNCznvgW8)
